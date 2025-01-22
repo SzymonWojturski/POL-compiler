@@ -1,0 +1,7 @@
+niech A będzie liczba całkowita równe 4;
+niech B będzie liczba całkowita równe 7;
+
+niech Kwadratsumy będzie liczba całkowita równe * + A B + A B;
+niech Sumakwadratow będzie liczba całkowita równe Kwadratsumy;
+
+zmień Sumakwadratow na + * A A * B B;

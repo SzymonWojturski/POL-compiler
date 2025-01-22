@@ -1,0 +1,9 @@
+#include <stdio.h>
+int Kwardat(X) {
+return (X * X);
+}int main() {
+for (int Abc = 0; Abc < 100; Abc++) {
+printf(Kwardat(Abc));
+}
+    return 0;
+}

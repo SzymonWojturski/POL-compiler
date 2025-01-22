@@ -1,0 +1,9 @@
+#include <stdio.h>
+int main() {
+int A = 4;
+int B = 7;
+int Kwadratsumy = ((A + B) * (A + B));
+int Sumakwadratow = Kwadratsumy;
+Sumakwadratow = ((A * A) + (B * B));
+    return 0;
+}

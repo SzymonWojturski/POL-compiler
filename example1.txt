@@ -1,0 +1,9 @@
+
+niech będzie funkcja zwracająca liczba całkowita nazywa się Kwardat (liczba całkowita X){
+    zwróć * X X;
+}
+
+dla Abc należącego od 0 do 100 {
+    wypisz na konsolę ( Kwardat(liczba całkowita Abc) )
+}
+
