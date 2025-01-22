@@ -2,10 +2,6 @@
 
 Simple POL&& language compiler
 
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
 ### Requirements
 
 * Python 3
@@ -20,13 +16,4 @@ pip install -r requirements.txt
 ## Usage
 ```
 python3 main.py InputFileName.txt OutputFileName.txt
-```
-
-
-A few examples of useful commands and/or tasks.
-
-```
-$ First example
-$ Second example
-$ And keep this in mind
 ```
